@@ -1,0 +1,18 @@
+PODS:
+  - KlarnaMobileSDK (2.0.8):
+    - KlarnaMobileSDK/xcode103-swift5-fat (= 2.0.8)
+  - KlarnaMobileSDK/xcode103-swift5-fat (2.0.8)
+
+DEPENDENCIES:
+  - KlarnaMobileSDK
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - KlarnaMobileSDK
+
+SPEC CHECKSUMS:
+  KlarnaMobileSDK: 36ed265d3ae42cd8c908d1349b4d09e98ff5fe09
+
+PODFILE CHECKSUM: 8793bab7ad6463cb617596b886bfce5a4911477f
+
+COCOAPODS: 1.5.3
